@@ -1,0 +1,7 @@
+Térkép: GEOJSON file kész, importálva tableauba
+Négy évvel ezelőtti jelöltek listája és eremdénye megvan, át kell alakítani a GEOSJON fileból tabuláris formátumba
+Jelenlegi jelöltek listája: 
+  NVI oldalon fent van
+  Pandas nem mukodik
+  Beautifulsoup kell, html scrapelés szükséges
+Idei eredmények scrapelése, milyen formátumba töltik fel
